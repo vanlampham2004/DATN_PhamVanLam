@@ -1,5 +1,7 @@
 from pages.base_page import BasePage
-from utils.image_compare import compare_images
+#from utils.image_compare import compare_images
+from vision.visual_compare import compare_images
+
 import cv2
 
 class HomePage(BasePage):

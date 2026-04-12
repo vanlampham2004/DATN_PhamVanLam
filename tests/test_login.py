@@ -6,16 +6,6 @@ from vision.visual_compare import compare_images
 
 class TestLogin(BaseTest):
 
-    #def test_click_login(self):
-        #self.driver.get(Config.URL)
-
-        #login_page = LoginPage(self.driver)
-
-        # retry tìm button
-        #found = wait_for(lambda: login_page.click_login_button(), timeout=10)
-
-        #assert found, "Không tìm thấy nút Login"
-        
     def test_login_full(self):
         self.driver.get(Config.URL)
 

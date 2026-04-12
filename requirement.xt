@@ -1,2 +1,5 @@
 opencv-python
 pytest
+requests
+pytesseract
+opencv-python

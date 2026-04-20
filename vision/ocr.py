@@ -1,7 +1,6 @@
 import pytesseract
 import cv2
 
-# 👇 THÊM DÒNG NÀY
 pytesseract.pytesseract.tesseract_cmd = r"E:\DATN_Appnium\tesseract.exe"
 
 def extract_text(image_path):
@@ -9,7 +8,7 @@ def extract_text(image_path):
     if img is None:
         raise Exception("Không đọc được ảnh")
 
-    # 🔥 resize nhỏ lại
+    #  resize nhỏ lại
     img = cv2.resize(img, None, fx=0.5, fy=0.5)
 
     text = pytesseract.image_to_string(img)

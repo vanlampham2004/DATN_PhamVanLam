@@ -1,0 +1,74 @@
+2026-04-20 15:16:50,634 | INFO | 🚀 START UI TEST PIPELINE
+2026-04-20 15:16:50,639 | INFO | Capturing UI...
+2026-04-20 15:16:57,448 | INFO | Comparing UI...
+2026-04-20 15:16:57,574 | INFO | UI Errors: 39
+2026-04-20 15:16:57,574 | INFO | Extracting text from UI...
+2026-04-20 15:16:57,911 | INFO | Generating test cases...
+2026-04-20 15:18:18,571 | INFO | Saving to Excel...
+2026-04-20 15:18:19,855 | INFO | DONE SUCCESSFULLY
+2026-04-20 15:26:14,958 | INFO |  START UI TEST PIPELINE
+2026-04-20 15:26:14,958 | INFO | Capturing UI...
+2026-04-20 15:26:23,540 | INFO | Comparing UI...
+2026-04-20 15:26:23,761 | ERROR | ERROR OCCURRED
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\runner.py", line 20, in <module>
+    errors, diff = compare_and_highlight(
+                   ~~~~~~~~~~~~~~~~~~~~~^
+        "baseline/login.png",
+        ^^^^^^^^^^^^^^^^^^^^^
+        "screenshots/login.png"
+        ^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "E:\DATN_PhamVanLam\vision\compare_advanced.py", line 7, in compare_and_highlight
+    img1 = cv2.resize(img1, (img2.shape[1], img2.shape[0]))
+cv2.error: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2026-04-20 15:27:21,478 | INFO |  START UI TEST PIPELINE
+2026-04-20 15:27:21,479 | INFO | Capturing UI...
+2026-04-20 15:27:30,127 | INFO | Comparing UI...
+2026-04-20 15:27:30,212 | INFO | UI Errors: 0
+2026-04-20 15:27:30,212 | INFO | Extracting text from UI...
+2026-04-20 15:27:31,170 | INFO | Generating test cases...
+2026-04-20 15:28:59,692 | INFO | Saving to Excel...
+2026-04-20 15:29:00,805 | INFO | DONE SUCCESSFULLY
+2026-04-20 15:40:53,213 | INFO |  START UI TEST PIPELINE
+2026-04-20 15:40:53,213 | INFO | Capturing UI...
+2026-04-20 15:41:01,059 | INFO | Screenshot saved: screenshots/login_20260420_154058.png
+2026-04-20 15:41:01,059 | INFO | Comparing UI...
+2026-04-20 15:41:01,059 | ERROR | ERROR OCCURRED
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\runner.py", line 21, in <module>
+    errors, diff = compare_and_highlight(
+                   ~~~~~~~~~~~~~~~~~~~~~^
+        "baseline/login.png",
+        ^^^^^^^^^^^^^^^^^^^^^
+        new_screenshot_path
+        ^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "E:\DATN_PhamVanLam\vision\compare_advanced.py", line 6, in compare_and_highlight
+    timestamp = time.strftime("%Y%m%d_%H%M%S")
+                ^^^^^^^^^^^^^
+AttributeError: 'builtin_function_or_method' object has no attribute 'strftime'
+2026-04-20 15:41:28,269 | INFO |  START UI TEST PIPELINE
+2026-04-20 15:41:28,269 | INFO | Capturing UI...
+2026-04-20 15:41:35,388 | INFO | Screenshot saved: screenshots/login_20260420_154132.png
+2026-04-20 15:41:35,389 | INFO | Comparing UI...
+2026-04-20 15:41:35,512 | INFO | UI Errors: 0
+2026-04-20 15:41:35,512 | INFO | Extracting text from UI...
+2026-04-20 15:41:36,439 | INFO | Generating test cases...
+2026-04-20 15:42:52,707 | INFO | Saving to Excel...
+2026-04-20 15:42:54,416 | INFO | DONE SUCCESSFULLY
+2026-04-20 15:53:14,445 | INFO | START UI TEST PIPELINE
+2026-04-20 15:53:21,999 | INFO | Screenshot: screenshots/login_20260420_155319.png
+2026-04-20 15:53:22,208 | INFO | Errors: 0
+2026-04-20 15:53:22,209 | INFO | Result: PASS
+2026-04-20 15:55:51,307 | INFO | Report: reports/report.html
+2026-04-20 15:55:51,307 | INFO | DONE
+2026-04-20 16:48:53,971 | INFO | START UI TEST PIPELINE
+2026-04-20 16:49:04,262 | INFO | Screenshot: screenshots/login_20260420_164901.png
+2026-04-20 16:49:04,479 | INFO | Errors: 0
+2026-04-20 16:49:04,479 | INFO | Result: PASS
+2026-04-20 16:51:46,879 | INFO | Report: reports/report.html
+2026-04-20 16:51:46,879 | INFO | DONE

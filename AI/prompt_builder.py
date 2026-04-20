@@ -1,17 +1,17 @@
 def build_prompt(ui_text):
     return f"""
-You are a QA Automation Engineer.
+You are a UI Testing Expert.
 
-Generate test cases for the following UI:
-
+UI Text:
 {ui_text}
 
-Include:
-- Positive / Negative / Edge cases
-- Steps
-- Expected result
-- Locator suggestion (xpath/css/id)
-- OpenCV validation hint
+Generate test cases.
 
-Format as table.
+STRICT RULE:
+- Output ONLY CSV
+- EXACTLY 3 columns
+- Format:
+Test Case ID,Description,Expected Result
+- DO NOT explain anything
+
 """

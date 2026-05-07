@@ -1,19 +1,8 @@
 from AI.ollama_client import call_ollama
 
-def analyze_ui(errors, ui_text):
-    prompt = f"""
-You are a UI Testing Expert.
 
-Detected {errors} UI differences.
+def analyze_ui(errors, ui_text, feature_name="Login UI"):
+    if errors == 0:
+        return f"{feature_name}: Giao diện PASS, không phát hiện sai khác so với baseline."
 
-UI Text:
-{ui_text}
-
-Describe:
-- What UI issues may exist
-- Possible layout problems
-- Missing or incorrect elements
-
-Keep it short.
-"""
-    return call_ollama(prompt)
+    return f"{feature_name}: Phát hiện {errors} vùng sai khác. Cần kiểm tra ảnh diff."

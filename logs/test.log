@@ -1,0 +1,594 @@
+2026-05-07 15:54:18,464 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 15:54:18,464 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 15:54:18,465 | ERROR | ❌ ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 147, in main
+    logger.debug(f"OCR TEXT:\n{all_text}")
+                               ^^^^^^^^
+UnboundLocalError: cannot access local variable 'all_text' where it is not associated with a value
+2026-05-07 15:54:18,465 | ERROR | ❌ ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 147, in main
+    logger.debug(f"OCR TEXT:\n{all_text}")
+                               ^^^^^^^^
+UnboundLocalError: cannot access local variable 'all_text' where it is not associated with a value
+2026-05-07 15:54:18,466 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 15:54:18,466 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 15:54:18,467 | ERROR | ❌ ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 147, in main
+    logger.debug(f"OCR TEXT:\n{all_text}")
+                               ^^^^^^^^
+UnboundLocalError: cannot access local variable 'all_text' where it is not associated with a value
+2026-05-07 15:54:18,467 | ERROR | ❌ ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 147, in main
+    logger.debug(f"OCR TEXT:\n{all_text}")
+                               ^^^^^^^^
+UnboundLocalError: cannot access local variable 'all_text' where it is not associated with a value
+2026-05-07 15:54:34,636 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 15:54:34,636 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 15:54:34,637 | ERROR | ❌ ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 147, in main
+    logger.debug(f"OCR TEXT:\n{all_text}")
+                               ^^^^^^^^
+UnboundLocalError: cannot access local variable 'all_text' where it is not associated with a value
+2026-05-07 15:54:34,637 | ERROR | ❌ ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 147, in main
+    logger.debug(f"OCR TEXT:\n{all_text}")
+                               ^^^^^^^^
+UnboundLocalError: cannot access local variable 'all_text' where it is not associated with a value
+2026-05-07 15:54:34,638 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 15:54:34,638 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 15:54:34,639 | ERROR | ❌ ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 147, in main
+    logger.debug(f"OCR TEXT:\n{all_text}")
+                               ^^^^^^^^
+UnboundLocalError: cannot access local variable 'all_text' where it is not associated with a value
+2026-05-07 15:54:34,639 | ERROR | ❌ ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 147, in main
+    logger.debug(f"OCR TEXT:\n{all_text}")
+                               ^^^^^^^^
+UnboundLocalError: cannot access local variable 'all_text' where it is not associated with a value
+2026-05-07 15:56:41,700 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 15:56:41,700 | ERROR | ❌ ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 147, in main
+    logger.debug(f"OCR TEXT:\n{all_text}")
+                               ^^^^^^^^
+UnboundLocalError: cannot access local variable 'all_text' where it is not associated with a value
+2026-05-07 15:56:41,701 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 15:56:41,702 | ERROR | ❌ ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 147, in main
+    logger.debug(f"OCR TEXT:\n{all_text}")
+                               ^^^^^^^^
+UnboundLocalError: cannot access local variable 'all_text' where it is not associated with a value
+2026-05-07 16:00:45,905 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 16:00:45,906 | INFO | 📸 Capturing UI...
+2026-05-07 16:01:00,381 | INFO | ✅ Captured 3 images
+2026-05-07 16:01:00,512 | INFO | ➡️ Part 0 errors: 0
+2026-05-07 16:01:00,588 | INFO | ➡️ Part 1 errors: 0
+2026-05-07 16:01:00,662 | INFO | ➡️ Part 2 errors: 0
+2026-05-07 16:01:00,663 | INFO | 🧾 TOTAL ERRORS: 0
+2026-05-07 16:01:00,663 | INFO | 🔤 Extracting text...
+2026-05-07 16:01:04,097 | DEBUG | OCR TEXT:
+Sén phém mei Donn mye sale Aonam~ —Quén nam Phy kign HA théng eile hang
+
+¥TORANO age
+
+ANH 840 LUA 040
+
+Dang ki
+
+onda c talker?
+
+PANETT cena mae moos
+‘Thai trang nam TORANO ‘Thong tin ign he Nhom tién két ‘Baing ky nhgn tin
+He thng ha wang cho phat men hang dB jac Ting 80 nha SSIS Tg Chink, + Tn De cop hat anangsén ph ma hon thang
+it Nam, huang tang cach am heh Put Phueng LE. Thanh ph6 HO NOL Vit + cites nu ds dbe Bet va thang tn osm gia ke.
+
+lam varétrng vam
++ inn sch 6 a
+
+ato ung
+Phuong thie thanh toda mai: cskhaterano\n s Lunhe
+
+‘Phuong thu van choyén
+FOG Bains Am STi
+
+FQ nigpemaicsaten BANG KY
+
+‘vb au trang js
+
+‘Bon d8 cé tai khogn?
+
+PANETT cena mae moos
+‘Thai trang nam TORANO ‘Thong tin ign he Nhom tién két ‘Baing ky nhgn tin
+He thng ha wang cho phat men hang dB jac Ting 80 nha SSIS Tg Chink, + Tn ‘5 cp et mhang sin pm ma. hen hang
+it Nam, huang tang cach am heh Put Phueng LE. Thanh ph6 HO NOL Vit + cites nu ds dbe Bet va thang tn osm gia ke.
+
+lam varétrng vam
++ inn sch 6 a
+
+ing i rn tee nocton oxen
+
+‘Phuong thu van chuyén
+FRAN Yainje Am SET
+
+FQ nigpemaicsaten BANG KY
+
+Cenarion © 2025 Tern, Power by Horan
+
+‘vb a trang js
+
+
+2026-05-07 16:01:04,097 | INFO | 🤖 Generating test cases...
+2026-05-07 16:01:04,097 | ERROR | ❌ ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 94, in main
+    cases = generate_test_cases(all_text)
+  File "E:\DATN_PhamVanLam\generator\test_case_gen.py", line 15, in generate_test_cases
+    response = call_llm(prompt)
+               ^^^^^^^^
+NameError: name 'call_llm' is not defined. Did you mean: 'callable'?
+2026-05-07 16:23:07,788 | INFO | 🚀 START REGISTER UI TEST
+2026-05-07 16:23:07,789 | INFO | 📸 Capturing UI...
+2026-05-07 16:23:21,668 | INFO | ✅ Captured 3 images
+2026-05-07 16:23:21,807 | INFO | ➡️ Part 0 errors: 0
+2026-05-07 16:23:21,883 | INFO | ➡️ Part 1 errors: 0
+2026-05-07 16:23:21,960 | INFO | ➡️ Part 2 errors: 0
+2026-05-07 16:23:21,960 | INFO | 🧾 TOTAL ERRORS: 0
+2026-05-07 16:23:21,961 | INFO | 🔤 Extracting text...
+2026-05-07 16:23:25,203 | DEBUG | OCR TEXT:
+Sén phém mei Donn mye sale Aonam~ —Quén nam Phy kign HA théng eile hang
+
+¥TORANO age
+
+ANH 840 LUA 040
+
+Dang ki
+
+onda c talker?
+
+PANETT cena mae moos
+‘Thai trang nam TORANO ‘Thong tin ign he Nhom tién két ‘Baing ky nhgn tin
+He thng ha wang cho phat men hang dB jac Ting 80 nha SSIS Tg Chink, + Tn De cop hat anangsén ph ma hon thang
+it Nam, huang tang cach am heh Put Phueng LE. Thanh ph6 HO NOL Vit + cites nu ds dbe Bet va thang tn osm gia ke.
+
+lam varétrng vam
++ inn sch 6 a
+
+ato ung
+Phuong thie thanh toda mai: cskhaterano\n s Lunhe
+
+‘Phuong thu van choyén
+FOG Bains Am STi
+
+FQ nigpemaicsaten BANG KY
+
+‘vb au trang js
+
+‘Bon d8 cé tai khogn?
+
+PANETT cena mae moos
+‘Thai trang nam TORANO ‘Thong tin ign he Nhom tién két ‘Baing ky nhgn tin
+He thng ha wang cho phat men hang dB jac Ting 80 nha SSIS Tg Chink, + Tn ‘5 cp et mhang sin pm ma. hen hang
+it Nam, huang tang cach am heh Put Phueng LE. Thanh ph6 HO NOL Vit + cites nu ds dbe Bet va thang tn osm gia ke.
+
+lam varétrng vam
++ inn sch 6 a
+
+ing i rn tee nocton oxen
+
+‘Phuong thu van chuyén
+FRAN Yainje Am SET
+
+FQ nigpemaicsaten BANG KY
+
+Cenarion © 2025 Tern, Power by Horan
+
+‘vb a trang js
+
+
+2026-05-07 16:23:25,203 | INFO | 🤖 Generating test cases...
+2026-05-07 16:26:05,584 | DEBUG | RAW AI RESPONSE:
+Here are the UI test cases in CSV format:
+
+"TestCaseID","Description","ExpectedResult"
+"1","Verify page title","Sén phém mei Donn mye sale Aonam~ —Quén nam Phy kign HA théng eile hang ¥TORANO age"
+"2","Check presence of 'ANH 840 LUA 040' text","Text is present"
+"3","Click on 'Dang ki' button and verify page change","Page changes to a new URL"
+"4","Search for 'PANETT cena mae moos' text and verify result","Text is found in the search results"
+"5","Verify presence of images (e.g. Phuong thie thanh toda mai: cskhaterano\n s Lunhe)","Images are present on the page"
+"6","Click on 'Phuong thu van choyén' link and verify page change","Page changes to a new URL"
+"7","Verify absence of 'Bon d8 cé tai khogn?' text","Text is not present"
+"8","Search for 'Thai trang nam TORANO' text and verify result","Text is found in the search results"
+"9","Verify presence of correct date (e.g. 2025 Tern, Power by Horan)","Date is correctly displayed"
+
+Note: The expected results are brief summaries of what I expect to happen when each test case is executed.
+2026-05-07 16:26:06,937 | INFO | 📁 Excel saved: reports/register/register_20260507_162307.xlsx
+2026-05-07 16:28:46,025 | INFO | 📄 Report saved: reports/register/report_20260507_162307.html
+2026-05-07 16:28:46,026 | INFO | 🎉 DONE
+2026-05-07 16:45:20,278 | INFO | START REGISTER UI TEST
+2026-05-07 16:45:36,331 | INFO | Capture done: 3 images
+2026-05-07 16:45:36,546 | INFO | Compare part 0: 0 differences
+2026-05-07 16:45:36,725 | INFO | Compare part 1: 0 differences
+2026-05-07 16:45:36,833 | INFO | Compare part 2: 0 differences
+2026-05-07 16:45:36,833 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 16:45:40,784 | INFO | OCR done
+2026-05-07 16:49:40,824 | ERROR | ERROR: HTTPConnectionPool(host='127.0.0.1', port=11434): Read timed out. (read timeout=240)
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\tuong\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\tuong\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\tuong\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\tuong\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\requests\adapters.py", line 645, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\urllib3\util\retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='127.0.0.1', port=11434): Read timed out. (read timeout=240)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 78, in main
+    test_cases = generate_test_cases(
+        all_text,
+        feature_name="Register UI",
+        n=10
+    )
+  File "E:\DATN_PhamVanLam\generator\test_case_gen.py", line 37, in generate_test_cases
+    raw = call_ollama(prompt)
+  File "E:\DATN_PhamVanLam\AI\ollama_client.py", line 26, in call_ollama
+    r = requests.post(
+        GEN,
+    ...<9 lines>...
+        timeout=timeout
+    )
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\requests\sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\requests\sessions.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\requests\adapters.py", line 691, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=11434): Read timed out. (read timeout=240)
+2026-05-07 17:08:34,338 | INFO | START REGISTER UI TEST
+2026-05-07 17:08:50,565 | INFO | Capture done: 3 images
+2026-05-07 17:08:50,796 | INFO | Compare part 0: 0 differences
+2026-05-07 17:08:50,892 | INFO | Compare part 1: 0 differences
+2026-05-07 17:08:50,979 | INFO | Compare part 2: 0 differences
+2026-05-07 17:08:50,979 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 17:08:54,944 | INFO | OCR done
+2026-05-07 17:10:55,121 | INFO | Excel saved: reports/register/register_20260507_170834.xlsx
+2026-05-07 17:12:22,359 | ERROR | ERROR: generate_html_report() takes 5 positional arguments but 6 were given
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 93, in main
+    generate_html_report(
+    ~~~~~~~~~~~~~~~~~~~~^
+        result,
+        ^^^^^^^
+    ...<4 lines>...
+        report_path
+        ^^^^^^^^^^^
+    )
+    ^
+TypeError: generate_html_report() takes 5 positional arguments but 6 were given
+2026-05-07 17:17:00,918 | INFO | START REGISTER UI TEST
+2026-05-07 17:17:17,391 | INFO | Capture done: 3 images
+2026-05-07 17:17:17,660 | INFO | Compare part 0: 0 differences
+2026-05-07 17:17:17,761 | INFO | Compare part 1: 0 differences
+2026-05-07 17:17:17,845 | INFO | Compare part 2: 0 differences
+2026-05-07 17:17:17,845 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 17:17:21,751 | INFO | OCR done
+2026-05-07 17:20:21,829 | INFO | Excel saved: reports/register/register_20260507_171700.xlsx
+2026-05-07 17:21:44,702 | INFO | Report saved: reports/register/report_20260507_171700.html
+2026-05-07 17:21:44,702 | INFO | DONE REGISTER UI TEST
+2026-05-07 18:36:53,370 | INFO | START REGISTER UI TEST
+2026-05-07 18:37:10,013 | INFO | Capture done: 3 images
+2026-05-07 18:37:10,021 | INFO | Baseline created: register_0.png
+2026-05-07 18:37:10,105 | INFO | Compare part 0: 0 differences
+2026-05-07 18:37:10,116 | INFO | Baseline created: register_1.png
+2026-05-07 18:37:10,194 | INFO | Compare part 1: 0 differences
+2026-05-07 18:37:10,202 | INFO | Baseline created: register_2.png
+2026-05-07 18:37:10,281 | INFO | Compare part 2: 0 differences
+2026-05-07 18:37:10,282 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 18:37:15,260 | INFO | OCR done
+2026-05-07 18:39:38,385 | INFO | Excel saved: reports/register/register_20260507_183653.xlsx
+2026-05-07 18:40:55,255 | INFO | Report saved: reports/register/report_20260507_183653.html
+2026-05-07 18:40:55,255 | INFO | DONE REGISTER UI TEST
+2026-05-07 19:16:09,690 | INFO | START REGISTER UI TEST
+2026-05-07 19:16:25,812 | INFO | Capture done: 3 images
+2026-05-07 19:16:25,895 | INFO | Compare part 0: 0 differences
+2026-05-07 19:16:25,972 | INFO | Compare part 1: 0 differences
+2026-05-07 19:16:26,140 | INFO | Compare part 2: 0 differences
+2026-05-07 19:16:26,140 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 19:16:30,643 | INFO | OCR done
+2026-05-07 19:19:10,451 | INFO | Excel saved: reports/register/register_20260507_191609.xlsx
+2026-05-07 19:20:30,492 | INFO | Report saved: reports/register/report_20260507_191609.html
+2026-05-07 19:20:30,492 | INFO | DONE REGISTER UI TEST
+2026-05-07 19:40:39,479 | INFO | START REGISTER UI TEST
+2026-05-07 19:40:52,184 | INFO | Capture done: 3 images
+2026-05-07 19:40:52,442 | INFO | Compare part 0: 0 differences
+2026-05-07 19:40:52,549 | INFO | Compare part 1: 0 differences
+2026-05-07 19:40:52,645 | INFO | Compare part 2: 0 differences
+2026-05-07 19:40:52,645 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 19:40:56,498 | INFO | OCR done
+2026-05-07 19:43:56,669 | INFO | Excel saved: reports/register/register_20260507_194039.xlsx
+2026-05-07 19:45:26,694 | INFO | Report saved: reports/register/report_20260507_194039.html
+2026-05-07 19:45:26,695 | INFO | DONE REGISTER UI TEST
+2026-05-07 19:47:24,207 | INFO | START REGISTER UI TEST
+2026-05-07 19:47:39,914 | INFO | Capture done: 3 images
+2026-05-07 19:47:40,057 | INFO | Compare part 0: 0 differences
+2026-05-07 19:47:40,152 | INFO | Compare part 1: 0 differences
+2026-05-07 19:47:40,246 | INFO | Compare part 2: 0 differences
+2026-05-07 19:47:40,246 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 19:47:43,957 | INFO | OCR done
+2026-05-07 19:50:43,991 | INFO | Excel saved: reports/register/register_20260507_194724.xlsx
+2026-05-07 19:52:12,866 | INFO | Report saved: reports/register/report_20260507_194724.html
+2026-05-07 19:52:12,866 | INFO | DONE REGISTER UI TEST
+2026-05-07 19:54:56,719 | INFO | START REGISTER UI TEST
+2026-05-07 19:55:10,078 | INFO | Capture done: 3 images
+2026-05-07 19:55:10,211 | INFO | Compare part 0: 0 differences
+2026-05-07 19:55:10,289 | INFO | Compare part 1: 0 differences
+2026-05-07 19:55:10,365 | INFO | Compare part 2: 0 differences
+2026-05-07 19:55:10,365 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 19:55:13,630 | INFO | OCR done
+2026-05-07 19:56:43,688 | INFO | Excel saved: reports/register/register_20260507_195456.xlsx
+2026-05-07 19:58:13,708 | INFO | Report saved: reports/register/report_20260507_195456.html
+2026-05-07 19:58:13,709 | INFO | DONE REGISTER UI TEST
+2026-05-07 20:00:45,319 | INFO | START REGISTER UI TEST
+2026-05-07 20:01:00,376 | INFO | Capture done: 3 images
+2026-05-07 20:01:00,507 | INFO | Compare part 0: 0 differences
+2026-05-07 20:01:00,583 | INFO | Compare part 1: 0 differences
+2026-05-07 20:01:00,658 | INFO | Compare part 2: 0 differences
+2026-05-07 20:01:00,658 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 20:01:04,073 | INFO | OCR done
+2026-05-07 20:05:40,185 | INFO | Excel saved: reports/register/register_20260507_200045.xlsx
+2026-05-07 20:07:00,640 | INFO | Report saved: reports/register/report_20260507_200045.html
+2026-05-07 20:07:00,640 | INFO | DONE REGISTER UI TEST
+2026-05-07 20:23:11,960 | INFO | START REGISTER UI TEST
+2026-05-07 20:23:22,259 | ERROR | FAILED
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 109, in <module>
+    run_register_test()
+    ~~~~~~~~~~~~~~~~~^^
+  File "E:\DATN_PhamVanLam\tests\register\runner_register.py", line 31, in run_register_test
+    screenshot = capture_register_ui()
+  File "E:\DATN_PhamVanLam\tests\register\test_ui_register.py", line 18, in capture_register_ui
+    driver.get("http://localhost:3000/register")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 466, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\DATN_PhamVanLam\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=147.0.7727.138)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff66239a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff66239a950+14eb0]
+	chromedriver!(No symbol) [0x7ff66210d6ed]
+	chromedriver!(No symbol) [0x7ff66210a224]
+	chromedriver!(No symbol) [0x7ff6620fa191]
+	chromedriver!(No symbol) [0x7ff6620fc07f]
+	chromedriver!(No symbol) [0x7ff6620fa733]
+	chromedriver!(No symbol) [0x7ff6620f9efb]
+	chromedriver!(No symbol) [0x7ff6620f9bb1]
+	chromedriver!(No symbol) [0x7ff6620f77e1]
+	chromedriver!(No symbol) [0x7ff6620f7f42]
+	chromedriver!(No symbol) [0x7ff6621119a6]
+	chromedriver!(No symbol) [0x7ff6621b5664]
+	chromedriver!(No symbol) [0x7ff66219002a]
+	chromedriver!(No symbol) [0x7ff6621b483b]
+	chromedriver!(No symbol) [0x7ff6621590e8]
+	chromedriver!(No symbol) [0x7ff662159fc3]
+	chromedriver!GetHandleVerifier [0x7ff6626b0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6626aa715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6626cc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6623b7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6623c087c+3addc]
+	chromedriver!GetHandleVerifier [0x7ff6623a40e4+1e644]
+	chromedriver!GetHandleVerifier [0x7ff6623a4296+1e7f6]
+	chromedriver!GetHandleVerifier [0x7ff662388737+2c97]
+	KERNEL32!BaseThreadInitThunk [0x7ffb8d0a7374+14]
+	ntdll!RtlUserThreadStart [0x7ffb8e35cc91+21]
+
+2026-05-07 20:26:24,744 | INFO | START REGISTER UI TEST
+2026-05-07 20:26:39,162 | INFO | Capture done: 3 images
+2026-05-07 20:26:39,245 | INFO | Compare part 0: 0 differences
+2026-05-07 20:26:39,328 | INFO | Compare part 1: 0 differences
+2026-05-07 20:26:39,414 | INFO | Compare part 2: 0 differences
+2026-05-07 20:26:39,414 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 20:26:43,843 | INFO | OCR done
+2026-05-07 20:31:20,150 | INFO | Excel saved: reports/register/register_20260507_202624.xlsx
+2026-05-07 20:32:37,309 | INFO | Report saved: reports/register/report_20260507_202624.html
+2026-05-07 20:32:37,310 | INFO | DONE REGISTER UI TEST
+2026-05-07 20:35:25,104 | INFO | START REGISTER UI TEST
+2026-05-07 20:35:39,968 | INFO | Capture done: 3 images
+2026-05-07 20:35:40,106 | INFO | Compare part 0: 0 differences
+2026-05-07 20:35:40,224 | INFO | Compare part 1: 0 differences
+2026-05-07 20:35:40,320 | INFO | Compare part 2: 0 differences
+2026-05-07 20:35:40,320 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 20:35:44,211 | INFO | OCR done
+2026-05-07 20:40:29,898 | INFO | Excel saved: reports/register/register_20260507_203525.xlsx
+2026-05-07 20:41:47,060 | INFO | Report saved: reports/register/report_20260507_203525.html
+2026-05-07 20:41:47,060 | INFO | DONE REGISTER UI TEST
+2026-05-07 20:45:42,825 | INFO | START REGISTER UI TEST
+2026-05-07 20:45:57,329 | INFO | Capture done: 3 images
+2026-05-07 20:45:57,413 | INFO | Compare part 0: 0 differences
+2026-05-07 20:45:57,491 | INFO | Compare part 1: 0 differences
+2026-05-07 20:45:57,574 | INFO | Compare part 2: 0 differences
+2026-05-07 20:45:57,574 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 20:46:00,998 | INFO | OCR done
+2026-05-07 20:48:06,231 | INFO | Excel saved: reports/register/register_20260507_204542.xlsx
+2026-05-07 20:49:18,875 | INFO | Report saved: reports/register/report_20260507_204542.html
+2026-05-07 20:49:18,875 | INFO | DONE REGISTER UI TEST
+2026-05-07 20:57:34,945 | INFO | START REGISTER UI TEST
+2026-05-07 20:57:49,477 | INFO | Capture done: 3 images
+2026-05-07 20:57:49,577 | INFO | Compare part 0: 0 differences
+2026-05-07 20:57:49,754 | INFO | Compare part 1: 0 differences
+2026-05-07 20:57:49,825 | INFO | Compare part 2: 0 differences
+2026-05-07 20:57:49,825 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 20:57:53,150 | INFO | OCR done
+2026-05-07 20:57:59,234 | INFO | Excel saved: reports/register/register_20260507_205734.xlsx
+2026-05-07 20:58:05,295 | INFO | Report saved: reports/register/report_20260507_205734.html
+2026-05-07 20:58:05,296 | INFO | DONE REGISTER UI TEST
+2026-05-07 21:28:15,048 | INFO | START REGISTER UI TEST
+2026-05-07 21:28:29,265 | INFO | Capture done: 3 images
+2026-05-07 21:28:29,388 | INFO | Compare part 0: 0 differences
+2026-05-07 21:28:29,467 | INFO | Compare part 1: 0 differences
+2026-05-07 21:28:29,544 | INFO | Compare part 2: 0 differences
+2026-05-07 21:28:29,544 | INFO | Visual result: PASS, total differences: 0
+2026-05-07 21:28:32,852 | INFO | OCR done
+2026-05-07 21:31:12,624 | INFO | Excel saved: reports/register/register_20260507_212815.xlsx
+2026-05-07 21:32:41,920 | INFO | Report saved: reports/register/report_20260507_212815.html
+2026-05-07 21:32:41,920 | INFO | DONE REGISTER UI TEST
+2026-05-07 21:59:30,768 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-07 21:59:48,700 | INFO | Screenshot: screenshots/login/login_0.png
+2026-05-07 21:59:48,726 | INFO | Baseline created: baseline/login/login.png
+2026-05-07 21:59:48,828 | INFO | Errors: 0
+2026-05-07 21:59:48,829 | INFO | Result: PASS
+2026-05-07 21:59:50,374 | INFO | OCR done
+2026-05-07 22:01:59,588 | INFO | Excel saved: reports/login/login_20260507_215930.xlsx
+2026-05-07 22:02:45,384 | INFO | Report saved: reports/login/report_20260507_215930.html
+2026-05-07 22:02:45,385 | INFO | DONE LOGIN UI TEST
+2026-05-07 22:05:52,178 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-07 22:06:05,992 | INFO | Screenshot: screenshots/login/login_0.png
+2026-05-07 22:06:06,091 | INFO | Errors: 0
+2026-05-07 22:06:06,092 | INFO | Result: PASS
+2026-05-07 22:06:07,621 | INFO | OCR done
+2026-05-07 22:07:29,534 | INFO | Excel saved: reports/login/login_20260507_220552.xlsx
+2026-05-07 22:07:29,536 | INFO | Report saved: reports/login/report_20260507_220552.html
+2026-05-07 22:07:29,537 | INFO | DONE LOGIN UI TEST
+2026-05-07 22:16:55,685 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-07 22:17:11,891 | INFO | Screenshot: screenshots/login/login_0.png
+2026-05-07 22:17:12,013 | INFO | Errors: 0
+2026-05-07 22:17:12,013 | INFO | Result: PASS
+2026-05-07 22:17:12,907 | INFO | OCR done
+2026-05-07 22:19:23,888 | INFO | Excel saved: reports/login/login_20260507_221655.xlsx
+2026-05-07 22:19:23,889 | INFO | Report saved: reports/login/report_20260507_221655.html
+2026-05-07 22:19:23,889 | INFO | DONE LOGIN UI TEST
+2026-05-07 22:42:30,920 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-07 22:42:47,051 | INFO | Capture done: 2 images
+2026-05-07 22:42:47,085 | INFO | Baseline created: login_0.png
+2026-05-07 22:42:47,203 | INFO | Baseline created: login_1.png
+2026-05-07 22:42:47,280 | INFO | Compare part 1: 0 differences
+2026-05-07 22:42:47,280 | INFO | Capture done: 2 images
+2026-05-07 22:42:47,280 | ERROR | ERROR
+Traceback (most recent call last):
+  File "E:\DATN_PhamVanLam\tests\login\runner_login.py", line 75, in main
+    for i, shot in enumerate(screenshots):
+                             ^^^^^^^^^^^
+NameError: name 'screenshots' is not defined. Did you mean: 'screenshot'?
+2026-05-07 22:44:44,460 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-07 22:45:00,707 | INFO | Capture done: 2 images
+2026-05-07 22:45:00,912 | INFO | Compare part 1: 0 differences
+2026-05-07 22:45:00,912 | INFO | Capture done: 2 images
+2026-05-07 22:45:00,976 | INFO | Compare part 0: 0 differences
+2026-05-07 22:45:01,044 | INFO | Compare part 1: 0 differences
+2026-05-07 22:45:01,044 | INFO | Result: PASS
+2026-05-07 22:46:57,903 | INFO | Excel saved: reports/login/login_20260507_224444.xlsx
+2026-05-07 22:46:57,904 | INFO | Report saved: reports/login/report_20260507_224444.html
+2026-05-07 22:46:57,904 | INFO | DONE LOGIN UI TEST
+2026-05-07 22:53:23,347 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-07 22:53:39,834 | INFO | Capture done: 2 images
+2026-05-07 22:53:39,923 | INFO | Compare part 0: 0 differences
+2026-05-07 22:53:39,998 | INFO | Compare part 1: 0 differences
+2026-05-07 22:53:39,999 | INFO | Result: PASS
+2026-05-07 22:53:42,693 | INFO | OCR done
+2026-05-07 22:55:35,477 | INFO | Excel saved: reports/login/login_20260507_225323.xlsx
+2026-05-07 22:55:35,478 | INFO | Report saved: reports/login/report_20260507_225323.html
+2026-05-07 22:55:35,479 | INFO | DONE LOGIN UI TEST
+2026-05-07 23:17:07,429 | INFO | START REGISTER UI TEST PIPELINE
+2026-05-07 23:17:25,567 | INFO | Capture done: 3 images
+2026-05-07 23:17:25,748 | INFO | Compare part 0: 0 differences
+2026-05-07 23:17:25,854 | INFO | Compare part 1: 0 differences
+2026-05-07 23:17:25,947 | INFO | Compare part 2: 0 differences
+2026-05-07 23:17:25,947 | INFO | Result: PASS
+2026-05-07 23:17:29,755 | INFO | OCR done
+2026-05-07 23:19:25,885 | INFO | Excel saved: reports/register/register_20260507_231707.xlsx
+2026-05-07 23:19:25,887 | INFO | Report saved: reports/register/report_20260507_231707.html
+2026-05-07 23:19:25,887 | INFO | DONE REGISTER UI TEST
+2026-05-07 23:24:23,116 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-07 23:24:42,295 | INFO | Capture done: 2 images
+2026-05-07 23:24:42,719 | INFO | Compare part 0: 0 differences
+2026-05-07 23:24:42,877 | INFO | Compare part 1: 0 differences
+2026-05-07 23:24:42,878 | INFO | Result: PASS
+2026-05-07 23:24:45,751 | INFO | OCR done
+2026-05-07 23:26:39,979 | INFO | Excel saved: reports/login/login_20260507_232423.xlsx
+2026-05-07 23:26:39,981 | INFO | Report saved: reports/login/report_20260507_232423.html
+2026-05-07 23:26:39,981 | INFO | DONE LOGIN UI TEST
+2026-05-07 23:27:04,525 | INFO | START REGISTER UI TEST PIPELINE
+2026-05-07 23:27:18,476 | INFO | Capture done: 3 images
+2026-05-07 23:27:18,677 | INFO | Compare part 0: 0 differences
+2026-05-07 23:27:18,787 | INFO | Compare part 1: 0 differences
+2026-05-07 23:27:18,882 | INFO | Compare part 2: 0 differences
+2026-05-07 23:27:18,882 | INFO | Result: PASS
+2026-05-07 23:27:22,711 | INFO | OCR done
+2026-05-07 23:28:40,842 | INFO | Excel saved: reports/register/register_20260507_232704.xlsx
+2026-05-07 23:28:40,843 | INFO | Report saved: reports/register/report_20260507_232704.html
+2026-05-07 23:28:40,844 | INFO | DONE REGISTER UI TEST
+2026-05-07 23:34:42,326 | INFO | START REGISTER UI TEST PIPELINE
+2026-05-07 23:34:57,992 | INFO | Capture done: 3 images
+2026-05-07 23:34:58,105 | INFO | Compare part 0: 0 differences
+2026-05-07 23:34:58,182 | INFO | Compare part 1: 0 differences
+2026-05-07 23:34:58,257 | INFO | Compare part 2: 0 differences
+2026-05-07 23:34:58,258 | INFO | Result: PASS
+2026-05-07 23:35:01,641 | INFO | OCR done
+2026-05-07 23:36:54,804 | INFO | Excel saved: reports/register/register_20260507_233442.xlsx
+2026-05-07 23:36:54,806 | INFO | Report saved: reports/register/report_20260507_233442.html
+2026-05-07 23:36:54,807 | INFO | DONE REGISTER UI TEST

@@ -1,37 +1,41 @@
-def generate_html_report(result, errors, screenshot, diff, ai_analysis):
+import os
+
+
+def generate_html_report(result, errors, screenshots, diff_images, analysis, output_path):
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+    screenshot_html = ""
+    for img in screenshots:
+        screenshot_html += f"<p>{img}</p><img src='../../{img}' width='450'>"
+
+    diff_html = ""
+    for img in diff_images:
+        diff_html += f"<p>{img}</p><img src='../../{img}' width='450'>"
+
     html = f"""
     <html>
     <head>
-        <title>UI Test Report</title>
-        <style>
-            body {{ font-family: Arial; }}
-            .fail {{ color: red; }}
-            .pass {{ color: green; }}
-            img {{ width: 400px; margin: 10px; }}
-        </style>
+        <meta charset="utf-8">
+        <title>Register UI Test Report</title>
     </head>
+    <body style="font-family:Arial">
+        <h1>Register UI Test Report</h1>
+        <h2>Result: {result}</h2>
+        <p>Total UI differences: {errors}</p>
 
-    <body>
-        <h1>UI TEST REPORT</h1>
+        <h2>Screenshots</h2>
+        {screenshot_html}
 
-        <h2>Result: <span class="{result.lower()}">{result}</span></h2>
-        <p>Errors detected: {errors}</p>
+        <h2>Diff Images</h2>
+        {diff_html}
 
-        <h3>Screenshot</h3>
-        <img src="../{screenshot}">
-
-        <h3>Diff Image</h3>
-        <img src="../{diff}">
-
-        <h3>AI Analysis</h3>
-        <p>{ai_analysis}</p>
-
+        <h2>AI Analysis</h2>
+        <pre>{analysis}</pre>
     </body>
     </html>
     """
 
-    path = "reports/report.html"
-    with open(path, "w", encoding="utf-8") as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         f.write(html)
 
-    return path
+    return output_path

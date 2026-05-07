@@ -9,6 +9,7 @@ def extract_text(image_path):
         raise Exception("Không đọc được ảnh")
 
     #  resize nhỏ lại
+    pytesseract.image_to_string(img, lang='vie')
     img = cv2.resize(img, None, fx=0.5, fy=0.5)
 
     text = pytesseract.image_to_string(img)

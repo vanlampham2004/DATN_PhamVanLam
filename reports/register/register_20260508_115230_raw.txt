@@ -1,0 +1,5 @@
+Here are the 5 test cases for the REGISTER UI:
+
+TC001 | Verify register name field visible | Register name field should be visible | Name input field visible | -
+TC002 | Verify register email/phone field visible | Register email/phone field should be visible | Email/phone input field visible | -
+TC003 | Verify register password field visible | Register password field should be visible | Password input

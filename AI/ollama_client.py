@@ -5,30 +5,19 @@ BASE = "http://127.0.0.1:11434"
 GEN = f"{BASE}/api/generate"
 TAGS = f"{BASE}/api/tags"
 
-# dùng model nhẹ hơn nếu muốn nhanh:
-# MODEL = "mistral"
 MODEL = "llama3"
 
 
 def check_ollama():
-    """
-    Kiểm tra Ollama server có đang chạy không
-    """
     try:
-        r = requests.get(TAGS, timeout=5)
-        r.raise_for_status()
+        requests.get(TAGS, timeout=5).raise_for_status()
         return True
     except Exception as e:
         print(f"[ERROR] Ollama server not available: {e}")
         return False
 
 
-def call_ollama(prompt, timeout=90, retry=3):
-    """
-    Gọi Ollama sinh test case
-    Có retry để tránh timeout
-    """
-
+def call_ollama(prompt, timeout=150, retry=2):
     if not check_ollama():
         return ""
 
@@ -37,16 +26,9 @@ def call_ollama(prompt, timeout=90, retry=3):
         "prompt": prompt,
         "stream": False,
         "options": {
-            # càng thấp càng ổn định
             "temperature": 0.1,
-
-            # giảm để nhanh hơn
-            "num_predict": 80,
-
-            # tối ưu tốc độ
+            "num_predict": 500,
             "top_p": 0.9,
-
-            # tránh lặp
             "repeat_penalty": 1.1
         }
     }
@@ -54,7 +36,6 @@ def call_ollama(prompt, timeout=90, retry=3):
     last_error = None
 
     for attempt in range(1, retry + 1):
-
         try:
             print(f"[INFO] Calling Ollama... attempt {attempt}/{retry}")
 
@@ -68,42 +49,24 @@ def call_ollama(prompt, timeout=90, retry=3):
 
             r.raise_for_status()
 
-            data = r.json()
+            result = r.json().get("response", "").strip()
 
-            result = data.get("response", "").strip()
-
-            duration = round(time.time() - start, 2)
-
-            print(f"[INFO] Ollama completed in {duration}s")
+            print(f"[INFO] Ollama completed in {round(time.time() - start, 2)}s")
 
             if result:
                 return result
 
-            print("[WARN] Empty response from Ollama")
+            print("[WARN] Ollama returned empty response")
 
-        except requests.exceptions.Timeout:
-            last_error = "Timeout"
-
-            print(
-                f"[WARN] Ollama timeout after {timeout}s "
-                f"(attempt {attempt}/{retry})"
-            )
-
-        except requests.exceptions.ConnectionError:
-            last_error = "Connection Error"
-
-            print("[ERROR] Cannot connect to Ollama server")
+        except requests.exceptions.Timeout as e:
+            last_error = e
+            print(f"[WARN] Ollama timeout after {timeout}s (attempt {attempt}/{retry})")
 
         except Exception as e:
-            last_error = str(e)
-
-            print(
-                f"[ERROR] Ollama failed "
-                f"(attempt {attempt}/{retry}): {e}"
-            )
+            last_error = e
+            print(f"[ERROR] Ollama failed attempt {attempt}/{retry}: {e}")
 
         time.sleep(2)
 
-    print(f"[FAILED] Ollama completely failed: {last_error}")
-
+    print(f"[FAILED] Ollama failed completely: {last_error}")
     return ""

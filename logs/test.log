@@ -592,3 +592,136 @@ NameError: name 'screenshots' is not defined. Did you mean: 'screenshot'?
 2026-05-07 23:36:54,804 | INFO | Excel saved: reports/register/register_20260507_233442.xlsx
 2026-05-07 23:36:54,806 | INFO | Report saved: reports/register/report_20260507_233442.html
 2026-05-07 23:36:54,807 | INFO | DONE REGISTER UI TEST
+2026-05-08 10:24:25,787 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-08 10:26:48,100 | INFO | Capture done: 2 images
+2026-05-08 10:26:48,630 | INFO | Compare part 0: 0 differences
+2026-05-08 10:26:48,706 | INFO | Compare part 1: 0 differences
+2026-05-08 10:26:48,706 | INFO | Result: PASS
+2026-05-08 10:26:52,183 | INFO | OCR done
+2026-05-08 10:28:56,182 | INFO | Excel saved: reports/login/login_20260508_102425.xlsx
+2026-05-08 10:28:56,183 | INFO | Report saved: reports/login/report_20260508_102425.html
+2026-05-08 10:28:56,183 | INFO | DONE LOGIN UI TEST
+2026-05-08 10:59:46,484 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-08 11:00:02,522 | INFO | Capture done: 2 images
+2026-05-08 11:00:03,007 | INFO | Compare part 0: 0 differences
+2026-05-08 11:00:03,098 | INFO | Compare part 1: 0 differences
+2026-05-08 11:00:03,098 | INFO | Result: PASS
+2026-05-08 11:00:05,923 | INFO | OCR done
+2026-05-08 11:02:01,571 | INFO | Excel saved: reports/login/login_20260508_105946.xlsx
+2026-05-08 11:02:01,572 | INFO | Report saved: reports/login/report_20260508_105946.html
+2026-05-08 11:02:01,572 | INFO | DONE LOGIN UI TEST
+2026-05-08 11:03:10,694 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-08 11:03:27,896 | INFO | Capture done: 2 images
+2026-05-08 11:03:28,098 | INFO | Compare part 0: 0 differences
+2026-05-08 11:03:28,203 | INFO | Compare part 1: 0 differences
+2026-05-08 11:03:28,203 | INFO | Result: PASS
+2026-05-08 11:03:30,874 | INFO | OCR done
+2026-05-08 11:03:50,875 | INFO | Excel saved: reports/login/login_20260508_110310.xlsx
+2026-05-08 11:03:50,876 | INFO | Report saved: reports/login/report_20260508_110310.html
+2026-05-08 11:03:50,876 | INFO | DONE LOGIN UI TEST
+2026-05-08 11:05:31,848 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-08 11:05:45,706 | INFO | Capture done: 2 images
+2026-05-08 11:05:45,903 | INFO | Compare part 0: 0 differences
+2026-05-08 11:05:45,967 | INFO | Compare part 1: 0 differences
+2026-05-08 11:05:45,967 | INFO | Result: PASS
+2026-05-08 11:05:47,868 | INFO | OCR done
+2026-05-08 11:06:06,725 | INFO | Excel saved: reports/login/login_20260508_110531.xlsx
+2026-05-08 11:06:06,725 | INFO | Report saved: reports/login/report_20260508_110531.html
+2026-05-08 11:06:06,726 | INFO | DONE LOGIN UI TEST
+2026-05-08 11:10:10,699 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-08 11:10:23,904 | INFO | Capture done: 2 images
+2026-05-08 11:10:24,003 | INFO | Compare part 0: 0 differences
+2026-05-08 11:10:24,080 | INFO | Compare part 1: 0 differences
+2026-05-08 11:10:24,080 | INFO | Result: PASS
+2026-05-08 11:10:26,075 | INFO | OCR done
+2026-05-08 11:11:34,308 | INFO | Excel saved: reports/login/login_20260508_111010.xlsx
+2026-05-08 11:11:34,309 | INFO | Report saved: reports/login/report_20260508_111010.html
+2026-05-08 11:11:34,309 | INFO | DONE LOGIN UI TEST
+2026-05-08 11:17:18,889 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-08 11:17:32,114 | INFO | Capture done: 2 images
+2026-05-08 11:17:32,201 | INFO | Compare part 0: 0 differences
+2026-05-08 11:17:32,381 | INFO | Compare part 1: 0 differences
+2026-05-08 11:17:32,381 | INFO | Result: PASS
+2026-05-08 11:17:34,209 | INFO | OCR done
+2026-05-08 11:19:59,386 | INFO | Excel saved: reports/login/login_20260508_111718.xlsx
+2026-05-08 11:19:59,387 | INFO | Report saved: reports/login/report_20260508_111718.html
+2026-05-08 11:19:59,388 | INFO | DONE LOGIN UI TEST
+2026-05-08 11:20:48,864 | INFO | START REGISTER UI TEST PIPELINE
+2026-05-08 11:21:04,741 | INFO | Capture done: 3 images
+2026-05-08 11:21:04,936 | INFO | Compare part 0: 0 differences
+2026-05-08 11:21:05,034 | INFO | Compare part 1: 0 differences
+2026-05-08 11:21:05,122 | INFO | Compare part 2: 0 differences
+2026-05-08 11:21:05,122 | INFO | Result: PASS
+2026-05-08 11:21:08,536 | INFO | OCR done
+2026-05-08 11:23:19,268 | INFO | Excel saved: reports/register/register_20260508_112048.xlsx
+2026-05-08 11:23:19,270 | INFO | Report saved: reports/register/report_20260508_112048.html
+2026-05-08 11:23:19,270 | INFO | DONE REGISTER UI TEST
+2026-05-08 11:32:08,277 | INFO | START REGISTER UI TEST PIPELINE
+2026-05-08 11:32:22,600 | INFO | Capture done: 3 images
+2026-05-08 11:32:22,683 | INFO | Compare part 0: 0 differences
+2026-05-08 11:32:22,747 | INFO | Compare part 1: 0 differences
+2026-05-08 11:32:22,810 | INFO | Compare part 2: 0 differences
+2026-05-08 11:32:22,810 | INFO | Result: PASS
+2026-05-08 11:32:25,587 | INFO | OCR done
+2026-05-08 11:33:48,987 | INFO | Excel saved: reports/register/register_20260508_113208.xlsx
+2026-05-08 11:33:49,333 | INFO | Report saved: reports/register/report_20260508_113208.html
+2026-05-08 11:33:49,334 | INFO | DONE REGISTER UI TEST
+2026-05-08 11:37:07,394 | INFO | START REGISTER UI TEST PIPELINE
+2026-05-08 11:37:23,455 | INFO | Capture done: 3 images
+2026-05-08 11:37:23,585 | INFO | Compare part 0: 0 differences
+2026-05-08 11:37:23,658 | INFO | Compare part 1: 0 differences
+2026-05-08 11:37:23,734 | INFO | Compare part 2: 0 differences
+2026-05-08 11:37:23,734 | INFO | Result: PASS
+2026-05-08 11:37:27,055 | INFO | OCR done
+2026-05-08 11:38:14,084 | INFO | Excel saved: reports/register/register_20260508_113707.xlsx
+2026-05-08 11:38:14,085 | INFO | Report saved: reports/register/report_20260508_113707.html
+2026-05-08 11:38:14,085 | INFO | DONE REGISTER UI TEST
+2026-05-08 11:41:15,965 | INFO | START REGISTER UI TEST PIPELINE
+2026-05-08 11:41:30,996 | INFO | Capture done: 3 images
+2026-05-08 11:41:31,096 | INFO | Compare part 0: 0 differences
+2026-05-08 11:41:31,161 | INFO | Compare part 1: 0 differences
+2026-05-08 11:41:31,347 | INFO | Compare part 2: 0 differences
+2026-05-08 11:41:31,347 | INFO | Result: PASS
+2026-05-08 11:41:34,138 | INFO | OCR done
+2026-05-08 11:42:43,907 | INFO | Excel saved: reports/register/register_20260508_114115.xlsx
+2026-05-08 11:42:43,908 | INFO | Report saved: reports/register/report_20260508_114115.html
+2026-05-08 11:42:43,909 | INFO | DONE REGISTER UI TEST
+2026-05-08 11:46:36,366 | INFO | START REGISTER UI TEST PIPELINE
+2026-05-08 11:46:50,802 | INFO | Capture done: 3 images
+2026-05-08 11:46:50,950 | INFO | Compare part 0: 0 differences
+2026-05-08 11:46:51,147 | INFO | Compare part 1: 0 differences
+2026-05-08 11:46:51,363 | INFO | Compare part 2: 1 differences
+2026-05-08 11:46:51,363 | INFO | Result: PASS
+2026-05-08 11:46:54,128 | INFO | OCR done
+2026-05-08 11:47:51,592 | INFO | Excel saved: reports/register/register_20260508_114636.xlsx
+2026-05-08 11:47:51,592 | INFO | Report saved: reports/register/report_20260508_114636.html
+2026-05-08 11:47:51,593 | INFO | DONE REGISTER UI TEST
+2026-05-08 11:52:30,564 | INFO | START REGISTER UI TEST PIPELINE
+2026-05-08 11:52:44,482 | INFO | Capture done: 3 images
+2026-05-08 11:52:44,571 | INFO | Compare part 0: 0 differences
+2026-05-08 11:52:44,638 | INFO | Compare part 1: 0 differences
+2026-05-08 11:52:44,703 | INFO | Compare part 2: 0 differences
+2026-05-08 11:52:44,703 | INFO | Result: PASS
+2026-05-08 11:52:47,498 | INFO | OCR done
+2026-05-08 11:54:59,800 | INFO | Excel saved: reports/register/register_20260508_115230.xlsx
+2026-05-08 11:54:59,801 | INFO | Report saved: reports/register/report_20260508_115230.html
+2026-05-08 11:54:59,801 | INFO | DONE REGISTER UI TEST
+2026-05-08 12:05:51,476 | INFO | START REGISTER UI TEST PIPELINE
+2026-05-08 12:06:05,242 | INFO | Capture done: 3 images
+2026-05-08 12:06:05,354 | INFO | Compare part 0: 0 differences
+2026-05-08 12:06:05,422 | INFO | Compare part 1: 0 differences
+2026-05-08 12:06:05,486 | INFO | Compare part 2: 0 differences
+2026-05-08 12:06:05,486 | INFO | Result: PASS
+2026-05-08 12:06:08,233 | INFO | OCR done
+2026-05-08 12:08:17,439 | INFO | Excel saved: reports/register/register_20260508_120551.xlsx
+2026-05-08 12:08:17,441 | INFO | Report saved: reports/register/report_20260508_120551.html
+2026-05-08 12:08:17,441 | INFO | DONE REGISTER UI TEST
+2026-05-08 12:09:43,250 | INFO | START LOGIN UI TEST PIPELINE
+2026-05-08 12:09:58,704 | INFO | Capture done: 2 images
+2026-05-08 12:09:58,837 | INFO | Compare part 0: 0 differences
+2026-05-08 12:09:58,922 | INFO | Compare part 1: 0 differences
+2026-05-08 12:09:58,923 | INFO | Result: PASS
+2026-05-08 12:10:01,456 | INFO | OCR done
+2026-05-08 12:12:10,146 | INFO | Excel saved: reports/login/login_20260508_120943.xlsx
+2026-05-08 12:12:10,147 | INFO | Report saved: reports/login/report_20260508_120943.html
+2026-05-08 12:12:10,147 | INFO | DONE LOGIN UI TEST

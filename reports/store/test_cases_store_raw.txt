@@ -1,0 +1,13 @@
+Here are the 5 test cases as required:
+
+TC001 | Verify store page title | Store page title "TORANO" should be displayed at the top of the page | Page displays with title "TORANO" | -
+
+TC002 | Verify store information visible | Store information such as address, phone number, and email should be displayed on the page | Information is displayed correctly | -
+
+TC003 | Verify dropdown filter visible | Dropdown filter for products or categories should be displayed on the page | Filter is displayed correctly | -
+
+TC004 | Verify map section visible | Map section showing store location should be displayed on the page | Map is displayed correctly | -
+
+TC005 | Verify footer section visible | Footer section with copyright information and other links should be displayed at the bottom of the page | Footer is displayed correctly | -
+
+Note: The "Highlight" column is left blank as there are no errors to highlight.

@@ -1,30 +1,38 @@
 import time
 
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 
 from vision.screenshot import take_fullpage_screenshot
 
 
 def capture_register_ui():
     driver = None
+    screenshots = []
+
+    devices = {
+        "desktop": (1920, 1080),
+        "tablet": (768, 1024),
+        "mobile": (390, 844)
+    }
 
     try:
-        driver = webdriver.Chrome(
-            service=Service(ChromeDriverManager().install())
-        )
+        driver = webdriver.Chrome()
 
-        driver.set_window_size(1920, 1080)
+        for device, (width, height) in devices.items():
+            driver.set_window_size(width, height)
 
-        driver.get("https://torano.vn/account/register")
+            driver.get("https://torano.vn/account/register")
 
-        time.sleep(2)
+            time.sleep(2)
 
-        screenshots = take_fullpage_screenshot(
-            driver,
-            "register"
-        )
+            parts = take_fullpage_screenshot(
+                driver,
+                feature=f"register_{device}"
+            )
+
+            screenshots.extend(parts)
+
+        #print("DEBUG screenshots:", screenshots)
 
         return screenshots
 

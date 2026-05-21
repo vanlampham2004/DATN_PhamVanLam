@@ -1,9 +1,0 @@
-Here are the 5 test cases:
-
-TC001 | Verify login form visible | Login form should be visible on the page | Login form visible | -
-TC002 | Verify username input field visible | Username input field should be visible and readable | Username input field visible | -
-TC003 | Verify password input field visible | Password input field should be visible and readable | Password input field visible | -
-TC004 | Verify login button visible | Login button should be visible and clickable | Login button visible | -
-TC005 | Verify login form layout alignment | Login form layout should align correctly with the page | Form layout aligned | -
-
-Note: Since the OCR text is not readable, I did not include any expected results related to the text.

@@ -6,7 +6,7 @@ def setup_logger():
 
     logger = logging.getLogger("UI_TEST")
 
-    if logger.hasHandlers():   # 👈 FIX QUAN TRỌNG
+    if logger.hasHandlers():   
         return logger
 
     logger.setLevel(logging.DEBUG)

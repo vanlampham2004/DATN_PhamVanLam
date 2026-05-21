@@ -1,7 +1,0 @@
-Here are the 5 test cases:
-
-TC001 | Verify register title visible | Register title should be visible | Register title "Dang ki" visible | -
-TC002 | Verify name input field visible | Name input field should be visible | Name input field visible | -
-TC003 | Verify email/phone input field visible | Email/phone input field should be visible | Email/phone input field visible | -
-TC004 | Verify password input field visible | Password input field should be visible | Password input field visible | -
-TC005 | Verify register button visible | Register button should be visible | Register button "Dang ki" visible | -

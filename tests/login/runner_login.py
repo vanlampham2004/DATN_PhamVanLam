@@ -8,7 +8,7 @@ from utils.report_html import generate_html_report
 from utils.excel_writer import save_to_excel
 
 from tests.login.test_ui_login import capture_login_ui
-from vision.compare_advanced import compare_and_highlight
+from vision.compare_ssim import compare_ssim_and_highlight
 from vision.ocr import extract_text
 from generator.test_case_gen import generate_test_cases
 from AI.ui_analyzer import analyze_ui
@@ -40,14 +40,15 @@ def main():
         diff_images = []
 
         for i, shot in enumerate(screenshots):
-            baseline_path = f"{baseline_dir}/login_{i}.png"
-            diff_path = f"{report_dir}/diff_{i}_{timestamp}.png"
+            name = os.path.basename(shot).replace(".png", "")
+            baseline_path = f"{baseline_dir}/{name}.png"
+            diff_path = f"{report_dir}/diff_{name}.png"
 
             if not os.path.exists(baseline_path):
                 shutil.copy(shot, baseline_path)
-                logger.info(f"Baseline created: login_{i}.png")
+                logger.info(f"Baseline created: {name}.png")
 
-            errors, diff = compare_and_highlight(
+            errors, diff, ssim_score = compare_ssim_and_highlight(
                 baseline_path,
                 shot,
                 diff_path
@@ -56,7 +57,7 @@ def main():
             total_errors += errors
             diff_images.append(diff)
 
-            logger.info(f"Compare part {i}: {errors} differences")
+            logger.info(f"Compare {name}: {errors} differences |ssim: {ssim_score:.4f}")
 
         result = evaluate_ui(total_errors)
         logger.info(f"Result: {result}")
@@ -77,7 +78,7 @@ def main():
             n=5
         )
 
-        excel_path = f"{report_dir}/login_{timestamp}.xlsx"
+        excel_path = f"{report_dir}/test_cases_login.xlsx"
         save_to_excel(cases, excel_path)
 
         logger.info(f"Excel saved: {excel_path}")
@@ -88,7 +89,7 @@ def main():
             feature_name="Login UI"
         )
 
-        report_path = f"{report_dir}/report_{timestamp}.html"
+        report_path = f"{report_dir}/report.html"
 
         generate_html_report(
             result,

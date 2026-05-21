@@ -1,0 +1,33 @@
+Here are the 5 test cases for the login UI:
+
+**TC001: Verify page visible**
+Description: Verify that the login page is displayed correctly.
+Expected Result: Page should display correctly.
+Output: Page visible
+Highlight: -
+
+**TC002: Verify input field visible**
+Description: Verify that the username/email/phone input field is displayed correctly.
+Expected Result: Input field should display correctly.
+Output: Input field visible
+Highlight: -
+
+**TC003: Verify button visible**
+Description: Verify that the login button is displayed correctly.
+Expected Result: Button should display correctly.
+Output: Button visible
+Highlight: -
+
+**TC004: Verify text readability**
+Description: Verify that the text on the page is readable.
+Expected Result: Text should be readable.
+Output: Text readable
+Highlight: -
+
+**TC005: Verify layout alignment**
+Description: Verify that the layout of the login form is aligned correctly.
+Expected Result: Layout should align correctly.
+Output: Layout aligned
+Highlight: -
+
+Note: These test cases are designed to verify the visual aspects of the login UI, without testing any functional behavior.
